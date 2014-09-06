@@ -1,4 +1,4 @@
-web-design-1
+Web Design I
 ============
 
-The core curriculum for WD1
+The core curriculum for WD1.
