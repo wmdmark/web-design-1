@@ -21,7 +21,7 @@ Create three HTML reports about apps or websites you find the most useful and we
 
 Finally, create a home page for your reports.
 
-### The home page should include
+### The home page should include:
 - Your name
 - A link to each of your reports by name
 
