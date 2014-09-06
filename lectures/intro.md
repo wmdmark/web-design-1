@@ -11,13 +11,13 @@
 
 ---
 
-## At the end of Web Design I you will...
+## At the end of Web Design 1 you will...
 
-- understand the potential and impact of designing for the web
-- understand the basics of UI, UX, and Usability
-- design and build responsive websites in HTML & CSS.
-- publish a website on the internet
-- know how to test your designs in browsers and mobile devices
+- Understand the potential and impact of designing for the web
+- Understand the basics of UI, UX, and Usability
+- Design and build responsive websites in HTML & CSS.
+- Publish a website on the internet
+- Know how to test your designs in browsers and mobile devices
 
 ---
 
