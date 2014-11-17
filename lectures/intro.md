@@ -2,29 +2,48 @@
 ## An intro to interactive design with code
 
 ---
-# Who am I?
+# Hello
 
-- Mr. Johnson (Mark)
+- Mark Johnson (a.k.a Mr. Johnson)
 - Web designer/developer since 1999
-- Co-founder of Pathwright
-- Co-founder of Liam (picture)
 
 ---
 
-## At the end of Web Design 1 you will...
+![](/Users/wmdmark/Dropbox/Screenshots/Screenshot 2014-09-07 18.56.54.png)
 
-- Understand the potential and impact of designing for the web
-- Understand the basics of UI, UX, and Usability
-- Design and build responsive websites in HTML & CSS.
-- Publish a website on the internet
-- Know how to test your designs in browsers and mobile devices
+---
+
+![](http://cl.ly/image/120e0H0w1V03)
+
+---
+
+# What you will learn
+
+---
+
+  > To understand the potential and impact of designing for the web
+
+---
+
+  > Understand the basics of UI, UX, and Usability
+
+---
+
+  > Design and build responsive websites in HTML & CSS.
+
+---
+
+  > Know how to test your designs in browsers and mobile devices
+
+---
+
+  > Publish a website on the internet
 
 ---
 
 # Required work
 
-- Lots of code!
-- At _least_ 3 hours a outside work
+- Lots of code! At _least_ 3 hours a outside work
 - Class time will be focused on learning and applying new concepts
 - Outside of class you will be working on projects and interactive tutorials
 
